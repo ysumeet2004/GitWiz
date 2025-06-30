@@ -1,3 +1,5 @@
+![Logo](Assets/logo.png)
+
 🧙‍♂️ gitwiz
 
 A magical AI-powered Git commit assistant that crafts smart commit messages, keeps track of your project history, and helps you work like a wizard.
