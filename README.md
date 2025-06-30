@@ -16,7 +16,7 @@ A magical AI-powered Git commit assistant that crafts smart commit messages, kee
 
 Once published to npm:
 
-npm install -g gitwiz
+npm install -g @ysumeet2004/gitwiz
 
 🚀 Usage
 
@@ -90,6 +90,6 @@ Output:
 ✅ Use this message? (y/n): y
 ✅ Committed successfully.
 
-❤️ Dedicated To
+❤️ Dedicated To 0725
 
 The joy of coding and not documenting !
